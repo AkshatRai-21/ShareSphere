@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "456488527414",
+    "project_id": "communityapp-16f6c",
+    "storage_bucket": "communityapp-16f6c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456488527414:android:7b4d1d97872029e90e9a97",
+        "android_client_info": {
+          "package_name": "com.akshat.communityApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "456488527414-61a09eb0i7hnhj29i6714i7rju0t4h88.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.akshat.communityApp",
+            "certificate_hash": "d08f482ef2e9f41d656e468c131d99eb9049feb5"
+          }
+        },
+        {
+          "client_id": "456488527414-siblnsllkr8jbjn9u3e6ncmimbaa1jui.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.akshat.communityApp",
+            "certificate_hash": "e2bd18446f5767f45f5d0cfdc31ef62202ca39c6"
+          }
+        },
+        {
+          "client_id": "456488527414-lhqe9qb2kbmsu85umd806tfnb7th0s1v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOF-EdnksJfWGadyfMgtTs-oC3TGlhcQg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "456488527414-hhfhtj4nec40617gpv0j1lngomq17a2q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "456488527414-3ni3c6mdbpdo1g2hqk75pqppa888j7j0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.akshat.communityApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
