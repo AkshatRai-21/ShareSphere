@@ -1,6 +1,6 @@
 # Share Sphere
 
-Responsive Full Stack Share Sphere - Works on Android, iOS & Web! 
+Responsive Full Stack App - Works on Android, iOS & Web! 
 
 ## Features
 - Google/Guest Authentication
